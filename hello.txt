@@ -13,3 +13,4 @@ hello world
 hello git
 hello git  this is master hello.txt
 hello git this is hot-fix hello.txt
+new line

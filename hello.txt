@@ -14,3 +14,5 @@ hello git
 hello git
 hello git
 this is game-fix
+this branch is hot-fix
+this is hot-fix second commit

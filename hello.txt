@@ -12,6 +12,4 @@ hello world
 hello world
 hello git
 hello git
-hello git
-this branch is hot-fix
-this is hot-fix second commit
+hello git this is hot-fix hello.txt
